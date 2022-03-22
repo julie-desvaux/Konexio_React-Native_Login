@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "konexio-login",
+    "slug": "konexio-login",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "konexio-login"
+}
