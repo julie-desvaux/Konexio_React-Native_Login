@@ -27,7 +27,7 @@ export default function Login({ navigation }) {
 				placeholder="Your email"
 				style={styles.input}
 				accessibilityLabel="Your email"
-				autoComplete="email"
+				keyboardType="email-address"
 			/>
 			<TextInput
 				value={password}
